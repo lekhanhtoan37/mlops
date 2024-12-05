@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/python/MSE/MLOps/project_mlops/mlruns/0/aa4ea9ca88c44ccdbf33a96f48d45856/artifacts
+end_time: 1733277498013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa4ea9ca88c44ccdbf33a96f48d45856
+run_name: agreeable-sponge-235
+run_uuid: aa4ea9ca88c44ccdbf33a96f48d45856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733277483342
+status: 3
+tags: []
+user_id: Laptop cua Nguyen
